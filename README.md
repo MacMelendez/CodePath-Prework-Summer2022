@@ -4,9 +4,9 @@
 
 Submitted by: Miguel Angel Castiblanco Melendez
 
-Time spent: 7 hours spent in total
+Time spent: 6 hours spent in total
 
-Link to project: (insert your link here, should start with https://memory-game-miguel-angel-.glitch.me/)
+Link to project: (https://memory-game-miguel-angel-.glitch.me/)
 
 ## Required Functionality
 
@@ -34,7 +34,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [x] Centered the buttons and the text.
+- [x] Added a signature. 
 
 ## Video Walkthrough (GIF)
 
@@ -61,7 +62,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/fb87e1d0c7c144c499911af215cf95b0)
 
 
 ## License
