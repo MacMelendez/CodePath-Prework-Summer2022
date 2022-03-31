@@ -35,19 +35,20 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Centered the buttons and the text.
-- [x] Added a signature. 
+- [x] Added a signature text space. 
 
 ## Video Walkthrough (GIF)
+![](gif2-link-here)![GIF MEMORY GAME 1](https://user-images.githubusercontent.com/102198069/161167853-80c140d7-1895-4f73-89da-f1e2b7f5a18d.gif)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](gif3-link-here)![GIF MEMORY GAME 2](https://user-images.githubusercontent.com/102198069/161167871-51fdb01d-2be9-4dce-9e93-0efa6ace45e8.gif)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+ 
+[Math.Random use](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+<br>[Use of Center tags](https://www.computerhope.com/issues/ch001474.htm#:~:text=style%20sheet%20property.-,Using%20the%20tags,%3E%20tags.&text=Inserting%20this%20text%20within%20HTML,Center%20this%20text!)
+<br>[Add line breaks](https://blog.hubspot.com/website/html-line-break#:~:text=In%20HTML%2C%20the,division%20of%20lines%20is%20significant.)
+<br>[Color names](https://htmlcolorcodes.com/color-names/)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
