@@ -4,7 +4,7 @@
 
 Submitted by: Miguel Angel Castiblanco Melendez
 
-Time spent: 6 hours spent in total
+Time spent: 6 hours spent in total.
 
 Link to project: (https://memory-game-miguel-angel-.glitch.me/)
 
