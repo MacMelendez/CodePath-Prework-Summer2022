@@ -50,14 +50,18 @@ The following **additional** features are implemented:
 <br>[Add line breaks](https://blog.hubspot.com/website/html-line-break#:~:text=In%20HTML%2C%20the,division%20of%20lines%20is%20significant.)
 <br>[Color names](https://htmlcolorcodes.com/color-names/)
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+
+
+At first I had problems with the functioning of the text on the screen. I did not know how to make some texts fit where I wanted them to fit. To solve my doubts, I opened an empty project and started playing around with the texts. Then, I realized that everything goes from left to right and it is necessary to specify when you want to change a line. Also, when doing the random values extra step, I was expecting it to return an integer. After a quick search, I discovered that it actually returns a float value so it was necessary to call the floor function to make it an integer. Afterwards, the random function included the 0 in between the possible results, and this was a problem as the buttons started counting from 1. To solve this I just simply added 1 to the result, so that 0 was never an option. It would not go beyond the limits as the maximum value is not included in the possible results, so the addition of 1 also helped to include the last button as a possible result. Despite those minor problems, I did not encounter serious difficulties that I could not solve.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I usually have questions about logic, but this is not the case. For me it is unusual how webs are formatted. One of the questions that came out of this programming experience was if there is a function or shortcut to make a text go directly in the last bottom line. Also, I was curious about printing a variable that changes constantly such as the number of remaining lives on the screen, rather than printing it as an alert. Finally, I had questions about the colors. When creating the extra button, I had a hard time trying to choose a color that does not look similar to the others, so I was wondering if there is a way to increase the range of colors.  I had a great time programming the game. It was really fun and I learned a lot.
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+
+In addition to finishing the extra steps, I think it would be interesting to add different levels of difficulty, so as the user keeps going through the levels, the game is harder each time. The initial levels would include just one or two buttons and a really slow repetition, then as the game continues, the speed and the amount of buttons increases until all the buttons are used and the maximum speed is reached. This could be possible by adding a counter of turns (perhaps the existing progress counter would work) that, along with the progress, unlocks with an if statement the speed and buttons.
 
 
 
